@@ -1,0 +1,4 @@
+﻿  UsefulHeapMain.cpp
+C:\Users\qkrgu\source\datastructure\UsefulHeapMain\UsefulHeapMain\UsefulHeapMain.cpp(17,22): warning C4305:  '인수': 'int'에서 'HData'(으)로 잘립니다.
+C:\Users\qkrgu\source\datastructure\UsefulHeapMain\UsefulHeapMain\UsefulHeapMain.cpp(17,17): warning C4309:  '인수': 상수 값이 잘립니다.
+  UsefulHeapMain.vcxproj -> C:\Users\qkrgu\source\datastructure\UsefulHeapMain\Debug\UsefulHeapMain.exe
